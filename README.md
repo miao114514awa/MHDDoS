@@ -8,7 +8,7 @@
 <a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
   
-<p align="center">Please Don't Attack websites without the owners consent.</p>
+<p align="center">Please Don't Attack websites without the owner's consent.</p>
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
@@ -145,6 +145,6 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 
 ## Need a Cheap Hourly Server? No Problem
 
-<a href="https://aeza.net/?ref=375036"><img src="https://github.com/user-attachments/assets/f875428b-cb35-442d-8dce-cdc5ead4ffbd" width="728" height="90" alt="aeza"></a>
+<a href="https://my-aeza.net/?ref=375036"><img src="https://github.com/user-attachments/assets/f875428b-cb35-442d-8dce-cdc5ead4ffbd" width="728" height="90" alt="aeza"></a>
 
-#### You can buy an hourly 10Gbps server from [Aeza Hosting](https://aeza.net/?ref=375036) with crypto (100% anonymous).
+#### You can buy an hourly 10Gbps server from [Aeza Hosting](https://my-aeza.net/?ref=375036) with crypto (100% anonymous).
